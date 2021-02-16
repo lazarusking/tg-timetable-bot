@@ -1,0 +1,82 @@
+{
+  "Monday":[{
+    "id": 0,
+    "name": "Introductory Electronics",
+    "code":"CSM 251",		
+    "prof": "Zeynep Orhan / Zerina Masetic / Enis Gegic",
+    "place": "ITLab216 | ITLab316 | Room 215",
+    "day": 1,
+    "startTime": 9,
+    "endTime": 11
+  },
+  {
+    "id": 1,
+    "name": "Object Oriented Programminng with Java",
+    "code":"CSM 281",
+    "prof": "Amar Saric / Becir Isakovic",
+    "place": "ITLab216",
+    "day": 1,
+    "startTime": 11,
+    "endTime": 12
+  },
+  {
+    "id": 2,
+    "name": "Open Source Operating Systems",
+    "code":"CSM 255",
+    "prof": "Serkan Balyimez",
+    "place": "Room 215",
+    "day": 1,
+    "startTime": 13,
+    "endTime": 15
+  },
+  {
+    "id": 3,
+    "name": "Linear and Numerical Algebra",
+    "code":"CSM 273",
+    "prof": "Izudin Tatarevic",
+    "place": "Room 215",
+    "day": 1,
+    "startTime": 15,
+    "endTime": 17
+  },
+  {
+    "id": 4,
+    "name": "System Analysis and Design I",
+    "code":"CSM 291",
+    "prof": "Amar Saric / Becir Isakovic",
+    "place": "ITLab316",
+    "day": 2,
+    "startTime": 9,
+    "endTime": 11
+  },
+  {
+    "id": 5,
+    "name": "Database Concepts and Technologies I",
+    "code":"CSM 297",
+    "prof": "Nermina Durmic",
+    "place": "Room 215",
+    "day": 2,
+    "startTime": 12,
+    "endTime": 13
+  },
+  {
+    "id": 6,
+    "name": "Literature in English I",
+    "code":"ENGL 263",
+    "prof": "Dino Keco",
+    "place": "Room 215",
+    "day": 2,
+    "startTime": 13,
+    "endTime": 15
+  },
+  {
+    "id": 7,
+    "name": "Ethical and Legal Implications of Computing",
+    "code":"CSM 265",
+    "prof": "Nermina Durmic",
+    "place": "Room 215",
+    "day": 3,
+    "startTime": 9,
+    "endTime": 11
+  }
+]}
