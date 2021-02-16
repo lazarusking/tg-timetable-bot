@@ -269,7 +269,7 @@ def next_course(update: Update, context: CallbackContext):
             if not((current_time >= course_start_time)):
                 print(current_time, "current", course_end_time)
                 update.message.reply_text(
-                    f"*course*: ``` {day['name']}```\n*place*:``` {p['place']}```\n*time*: ``` {str(p['startTime'])}-{str(p['endTime'])}```", parse_mode=ParseMode.MARKDOWN)
+                    f"*course*: ``` {day['name']}```\n*place*:``` {day['place']}```\n*time*: ``` {str(day['startTime'])}-{str(day['endTime'])}```", parse_mode=ParseMode.MARKDOWN)
             # print(time, ' works?')
                 break
             else:
